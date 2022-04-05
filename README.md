@@ -42,9 +42,5 @@ My skills:
 🇷🇺 Russian - native  
 🇬🇧 English - upper-intermediate (B2)
 
-## Some Github stats:
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dmitrynedoboy&show_icons=true&include_all_commits=true)](https://github.com/dmitrynedoboy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrynedoboy&layout=compact)](https://github.com/dmitrynedoboy/github-readme-stats)
-
 ## And finally my cat:
 [![Miine Cat](https://downloader.disk.yandex.ru/preview/68fc225a96bd5a03f97b1671c01f90cbed8838f94571227b4734356fd12ad006/6249fecf/s8ePlajpRh1rf4kCk6tOEqBgRPm0lFCVXhvqdlOOBbLyttV5kkiGFbQevj_u5w6XobyBmpNr1z_kLpmVHMuoTA%3D%3D?uid=0&filename=DSC_0013.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)](https://github.com/dmitrynedoboy)
