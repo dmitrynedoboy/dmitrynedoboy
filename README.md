@@ -43,4 +43,5 @@ My skills:
 🇬🇧 English - upper-intermediate (B2)
 
 ## And finally my cat:
-[![Miine Cat](https://downloader.disk.yandex.ru/preview/68fc225a96bd5a03f97b1671c01f90cbed8838f94571227b4734356fd12ad006/6249fecf/s8ePlajpRh1rf4kCk6tOEqBgRPm0lFCVXhvqdlOOBbLyttV5kkiGFbQevj_u5w6XobyBmpNr1z_kLpmVHMuoTA%3D%3D?uid=0&filename=DSC_0013.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)](https://github.com/dmitrynedoboy)
+[![Mine Cat](https://user-images.githubusercontent.com/95414701/163674414-ffa28470-6167-4507-89b8-ac57bfc8711b.JPG)](https://github.com/dmitrynedoboy)
+
