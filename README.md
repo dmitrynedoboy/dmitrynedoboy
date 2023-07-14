@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dima-nedoboy/)](https://www.linkedin.com/in/dima-nedoboy/) 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitry_nedoboy)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/dmitrynedoboy/)](https://www.github.com/dmitrynedoboy/)
-[![CodeWars Badge](https://www.codewars.com/users/tropicisland/badges/micro)](https://www.codewars.com/users/tropicisland)  
 
 I'm inspired by coding and i'm a frontend developer.
 
