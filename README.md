@@ -39,7 +39,7 @@ My skills:
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/dmitrynedoboy)
 
 ## Languages:
-English - upper-intermediate (B2)
+English - upper-intermediate (B2)  
 Russian - native  
 
 ## And finally my cat:
