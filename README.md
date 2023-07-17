@@ -39,8 +39,8 @@ My skills:
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/dmitrynedoboy)
 
 ## Languages:
-🇬🇧 English - upper-intermediate (B2)
-🇷🇺 Russian - native  
+English - upper-intermediate (B2)
+Russian - native  
 
 ## And finally my cat:
 [![Mine Cat](https://user-images.githubusercontent.com/95414701/163674414-ffa28470-6167-4507-89b8-ac57bfc8711b.JPG)](https://github.com/dmitrynedoboy)
