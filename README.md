@@ -17,7 +17,7 @@ My skills:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dmitrynedoboy)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dmitrynedoboy)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/dmitrynedoboy)
-[![Handlebars](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)](https://github.com/dmitrynedoboy)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/dmitrynedoboy)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/dmitrynedoboy)
@@ -34,7 +34,6 @@ My skills:
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://github.com/dmitrynedoboy)
 
 ## My development plans:
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/dmitrynedoboy)
 [![MobX](https://img.shields.io/badge/mobx-%23015292.svg?&style=for-the-badge&logo=mobx&logoColor=white)](https://github.com/dmitrynedoboy)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/dmitrynedoboy)
 
